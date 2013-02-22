@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/daxtop_dp/!svn/ver/34/daxtop_obfuscation/trunk
+END
+daxtop_exe.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/daxtop_dp/!svn/ver/9/daxtop_obfuscation/trunk/daxtop_exe.xml
+END
+obfuscate.bat
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/daxtop_dp/!svn/ver/9/daxtop_obfuscation/trunk/obfuscate.bat
+END
+config.pro
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/daxtop_dp/!svn/ver/9/daxtop_obfuscation/trunk/config.pro
+END
+clean.bat
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/daxtop_dp/!svn/ver/9/daxtop_obfuscation/trunk/clean.bat
+END
+daxtop_exe_mod.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/daxtop_dp/!svn/ver/9/daxtop_obfuscation/trunk/daxtop_exe_mod.xml
+END

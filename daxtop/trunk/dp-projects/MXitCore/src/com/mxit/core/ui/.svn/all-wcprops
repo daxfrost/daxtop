@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/daxtop_dp/!svn/ver/98/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/ui
+END
+ChatScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/daxtop_dp/!svn/ver/93/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/ui/ChatScreen.java
+END
+ActivateScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/daxtop_dp/!svn/ver/94/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/ui/ActivateScreen.java
+END
+SettingsScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/daxtop_dp/!svn/ver/98/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/ui/SettingsScreen.java
+END
+StatusScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/daxtop_dp/!svn/ver/75/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/ui/StatusScreen.java
+END
+AddContactScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/daxtop_dp/!svn/ver/77/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/ui/AddContactScreen.java
+END
+DInputField.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/daxtop_dp/!svn/ver/93/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/ui/DInputField.java
+END
+AddMultiMXScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/daxtop_dp/!svn/ver/77/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/ui/AddMultiMXScreen.java
+END
+LoginScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/daxtop_dp/!svn/ver/77/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/ui/LoginScreen.java
+END
+PopupGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/ui/PopupGrid.java
+END
+ViewProfileScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/daxtop_dp/!svn/ver/72/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/ui/ViewProfileScreen.java
+END
+ContactsScreen.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/daxtop_dp/!svn/ver/91/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/ui/ContactsScreen.java
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/daxtop_dp/!svn/ver/9/daxtop_obfuscation/trunk/launch4j/bin
+END
+ld.exe
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/daxtop_dp/!svn/ver/9/daxtop_obfuscation/trunk/launch4j/bin/ld.exe
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/daxtop_dp/!svn/ver/9/daxtop_obfuscation/trunk/launch4j/bin/COPYING
+END
+windres.exe
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/daxtop_dp/!svn/ver/9/daxtop_obfuscation/trunk/launch4j/bin/windres.exe
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/exception
+END
+MXitConnectionFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/exception/MXitConnectionFailedException.java
+END
+MXitProfileNotActivatedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/exception/MXitProfileNotActivatedException.java
+END
+MXitConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/exception/MXitConfigurationException.java
+END
+MXitProfileNotLoadedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/exception/MXitProfileNotLoadedException.java
+END
+MXitLoginFailedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/exception/MXitLoginFailedException.java
+END

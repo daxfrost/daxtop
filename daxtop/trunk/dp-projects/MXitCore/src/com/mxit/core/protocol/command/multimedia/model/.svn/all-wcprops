@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/daxtop_dp/!svn/ver/94/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/multimedia/model
+END
+FileControl.java
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/daxtop_dp/!svn/ver/94/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/multimedia/model/FileControl.java
+END
+AvatarRequest.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/daxtop_dp/!svn/ver/75/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/multimedia/model/AvatarRequest.java
+END
+FileRejectReasons.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/daxtop_dp/!svn/ver/78/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/multimedia/model/FileRejectReasons.java
+END
+FileOfferFlags.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/daxtop_dp/!svn/ver/78/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/multimedia/model/FileOfferFlags.java
+END

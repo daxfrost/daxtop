@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/daxtop_dp/!svn/ver/98/daxtop/trunk/dp-projects/MXitCore
+END
+mxit.config
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/mxit.config
+END
+manifest.mf
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/manifest.mf
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/build.xml
+END

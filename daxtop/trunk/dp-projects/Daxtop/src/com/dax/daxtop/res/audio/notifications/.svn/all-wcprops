@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/Daxtop/src/com/dax/daxtop/res/audio/notifications
+END
+contact_offline.wav
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/Daxtop/src/com/dax/daxtop/res/audio/notifications/contact_offline.wav
+END
+new_message.wav
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/Daxtop/src/com/dax/daxtop/res/audio/notifications/new_message.wav
+END
+multimedia_message.wav
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/Daxtop/src/com/dax/daxtop/res/audio/notifications/multimedia_message.wav
+END
+contact_online.wav
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/Daxtop/src/com/dax/daxtop/res/audio/notifications/contact_online.wav
+END

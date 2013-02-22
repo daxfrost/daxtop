@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/daxtop_dp/!svn/ver/98/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model
+END
+AvatarFetcher.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/daxtop_dp/!svn/ver/60/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/AvatarFetcher.java
+END
+UserProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/daxtop_dp/!svn/ver/98/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/UserProfile.java
+END
+MXitCommand.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/daxtop_dp/!svn/ver/98/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/MXitCommand.java
+END
+UserSession.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/daxtop_dp/!svn/ver/78/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/UserSession.java
+END
+MXitMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/daxtop_dp/!svn/ver/87/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/MXitMessage.java
+END
+MXitSubscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/MXitSubscription.java
+END
+MXitContactList.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/daxtop_dp/!svn/ver/94/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/MXitContactList.java
+END
+MXitContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/daxtop_dp/!svn/ver/75/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/MXitContact.java
+END
+MXitMessageBuilder.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/daxtop_dp/!svn/ver/88/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/MXitMessageBuilder.java
+END
+Mood.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/Mood.java
+END

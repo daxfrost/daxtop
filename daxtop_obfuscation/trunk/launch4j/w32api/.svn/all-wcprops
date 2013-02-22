@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/daxtop_dp/!svn/ver/29/daxtop_obfuscation/trunk/launch4j/w32api
+END
+libadvapi32.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/daxtop_dp/!svn/ver/23/daxtop_obfuscation/trunk/launch4j/w32api/libadvapi32.a
+END
+MinGW.LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/daxtop_dp/!svn/ver/9/daxtop_obfuscation/trunk/launch4j/w32api/MinGW.LICENSE.txt
+END
+libgcc.a
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/daxtop_dp/!svn/ver/24/daxtop_obfuscation/trunk/launch4j/w32api/libgcc.a
+END
+libshell32.a
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/daxtop_dp/!svn/ver/28/daxtop_obfuscation/trunk/launch4j/w32api/libshell32.a
+END
+libmsvcrt.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/daxtop_dp/!svn/ver/27/daxtop_obfuscation/trunk/launch4j/w32api/libmsvcrt.a
+END
+crt2.o
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/daxtop_dp/!svn/ver/22/daxtop_obfuscation/trunk/launch4j/w32api/crt2.o
+END
+libuser32.a
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/daxtop_dp/!svn/ver/29/daxtop_obfuscation/trunk/launch4j/w32api/libuser32.a
+END
+libkernel32.a
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/daxtop_dp/!svn/ver/25/daxtop_obfuscation/trunk/launch4j/w32api/libkernel32.a
+END
+libmingw32.a
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/daxtop_dp/!svn/ver/26/daxtop_obfuscation/trunk/launch4j/w32api/libmingw32.a
+END

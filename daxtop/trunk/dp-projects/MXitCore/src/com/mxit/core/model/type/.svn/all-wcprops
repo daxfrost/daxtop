@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/daxtop_dp/!svn/ver/94/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/type
+END
+MXitContactType.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/daxtop_dp/!svn/ver/75/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/type/MXitContactType.java
+END
+MXitCommandType.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/type/MXitCommandType.java
+END
+MXitContactPresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/daxtop_dp/!svn/ver/94/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/type/MXitContactPresence.java
+END
+MessageTxType.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/type/MessageTxType.java
+END
+MXitMessageFlags.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/type/MXitMessageFlags.java
+END
+MXitPresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/type/MXitPresence.java
+END
+MXitMessageType.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/type/MXitMessageType.java
+END
+MXitContactSubType.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/type/MXitContactSubType.java
+END
+FeatureType.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/model/type/FeatureType.java
+END

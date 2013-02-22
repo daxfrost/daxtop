@@ -1,0 +1,123 @@
+10
+
+dir
+98
+https://daxfrost@daxtop.unfuddle.com/svn/daxtop_dp/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core
+https://daxfrost@daxtop.unfuddle.com/svn/daxtop_dp
+
+
+
+2010-10-28T19:29:22.976044Z
+98
+daxfrost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+b0b17cfa-0cb6-4b74-9bcc-a04514230b42
+
+model
+dir
+
+activation
+dir
+
+protocol
+dir
+
+interfaces
+dir
+
+res
+dir
+
+MXitConfiguration.java
+file
+
+
+
+
+2012-09-18T09:42:05.000000Z
+92f81dabcd8cd2e387a2090b8e4b3654
+2010-06-25T20:21:31.927910Z
+10
+daxfrost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2161
+
+encryption
+dir
+
+MXitManager.java
+file
+
+
+
+
+2012-09-18T09:42:05.000000Z
+5708ea1470f50432d4e8e5f2687efc2e
+2010-10-03T15:56:30.002337Z
+88
+daxfrost
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25011
+
+conn
+dir
+
+ui
+dir
+
+exception
+dir
+

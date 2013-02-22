@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/daxtop_dp/!svn/ver/9/daxtop_obfuscation/trunk/proguard/build
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/daxtop_dp/!svn/ver/9/daxtop_obfuscation/trunk/proguard/build/build.sh
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/daxtop_dp/!svn/ver/9/daxtop_obfuscation/trunk/proguard/build/makefile
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/daxtop_dp/!svn/ver/9/daxtop_obfuscation/trunk/proguard/build/build.xml
+END

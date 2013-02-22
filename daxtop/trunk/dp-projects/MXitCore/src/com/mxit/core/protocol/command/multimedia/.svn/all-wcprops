@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/daxtop_dp/!svn/ver/94/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/multimedia
+END
+CommandMultimediaMessageFileOffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/daxtop_dp/!svn/ver/78/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/multimedia/CommandMultimediaMessageFileOffer.java
+END
+CommandMultimediaMessageGetAvatars.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/multimedia/CommandMultimediaMessageGetAvatars.java
+END
+CommandMultimediaMessageCustomResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/daxtop_dp/!svn/ver/75/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/multimedia/CommandMultimediaMessageCustomResource.java
+END
+CommandMultimediaMessageFileForward.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/daxtop_dp/!svn/ver/78/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/multimedia/CommandMultimediaMessageFileForward.java
+END
+CommandMultimediaMessageFileSend.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/daxtop_dp/!svn/ver/78/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/multimedia/CommandMultimediaMessageFileSend.java
+END
+CommandMultimediaMessageSetAvatar.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/multimedia/CommandMultimediaMessageSetAvatar.java
+END
+CommandMultimediaMessageFileReject.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/daxtop_dp/!svn/ver/78/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/multimedia/CommandMultimediaMessageFileReject.java
+END
+CommandMultimediaMessageFileGet.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/daxtop_dp/!svn/ver/78/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/multimedia/CommandMultimediaMessageFileGet.java
+END

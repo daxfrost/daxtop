@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/daxtop_dp/!svn/ver/94/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command
+END
+CommandMultiMXAddMember.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/daxtop_dp/!svn/ver/75/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandMultiMXAddMember.java
+END
+CommandSetExtenededProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/daxtop_dp/!svn/ver/75/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandSetExtenededProfile.java
+END
+CommandGetPresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/daxtop_dp/!svn/ver/75/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandGetPresence.java
+END
+CommandDenySubscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandDenySubscription.java
+END
+CommandKeepAlive.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandKeepAlive.java
+END
+CommandShowPresence.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandShowPresence.java
+END
+CommandLogin.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/daxtop_dp/!svn/ver/75/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandLogin.java
+END
+CommandNewMultiMX.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/daxtop_dp/!svn/ver/75/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandNewMultiMX.java
+END
+CommandLogout.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandLogout.java
+END
+CommandRemoveContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandRemoveContact.java
+END
+CommandUnknownError.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandUnknownError.java
+END
+CommandInviteContact.java
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandInviteContact.java
+END
+CommandRemoveGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/daxtop_dp/!svn/ver/70/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandRemoveGroup.java
+END
+CommandSetMood.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandSetMood.java
+END
+CommandUpdateContactInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/daxtop_dp/!svn/ver/84/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandUpdateContactInfo.java
+END
+CommandGetContacts.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/daxtop_dp/!svn/ver/75/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandGetContacts.java
+END
+CommandGetNewMessages.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/daxtop_dp/!svn/ver/77/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandGetNewMessages.java
+END
+CommandAllowSubscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandAllowSubscription.java
+END
+CommandRegister.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandRegister.java
+END
+CommandRenameGroup.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/daxtop_dp/!svn/ver/85/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandRenameGroup.java
+END
+CommandGetExtenededProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/daxtop_dp/!svn/ver/75/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandGetExtenededProfile.java
+END
+CommandGetNewSubscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/daxtop_dp/!svn/ver/75/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandGetNewSubscription.java
+END
+CommandSendMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/daxtop_dp/!svn/ver/75/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandSendMessage.java
+END
+CommandMultimediaMessage.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandMultimediaMessage.java
+END
+CommandBlockSubscription.java
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandBlockSubscription.java
+END
+CommandUnknown.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/daxtop_dp/!svn/ver/10/daxtop/trunk/dp-projects/MXitCore/src/com/mxit/core/protocol/command/CommandUnknown.java
+END

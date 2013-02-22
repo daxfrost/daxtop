@@ -1,0 +1,28 @@
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>.\moderator_release\Daxtop.jar</jar>
+  <outfile>.\moderator_release\daxtop.exe</outfile>
+  <errTitle>You&apos;ll need Java to run daxtop...</errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://www.java.com/download</downloadUrl>
+  <supportUrl>http://www.daxtop.com/</supportUrl>
+  <customProcName>true</customProcName>
+  <stayAlive>false</stayAlive>
+  <manifest></manifest>
+  <icon>..\dp-projects\Daxtop\icon.ico</icon>
+  <singleInstance>
+    <mutexName>daxtop</mutexName>
+    <windowTitle></windowTitle>
+  </singleInstance>
+  <jre>
+    <path></path>
+    <minVersion>1.4.0</minVersion>
+    <maxVersion></maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <maxHeapPercent>50</maxHeapPercent>
+    <opt>-splash:splash.png -Dsun.java2d.noddraw=true -Dswing.bufferPerWindow=false -Dswing.useflipBufferStrategy=true</opt>
+  </jre>
+</launch4jConfig>
